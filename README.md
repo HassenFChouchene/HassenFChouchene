@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassenFChouchene
+- 👋 Hi, I’m @Hassen Faouzi Chouchene
 - 👀 I’m interested in Everything related to computer science
 - 🌱 I’m currently learning embedded systems
 - 💞️ I’m looking to collaborate on embedded systems projects
